@@ -166,7 +166,7 @@ type SocketConfig = {
 ### Emulating the Desktop app instead of the web
 
 1. Baileys, by default, emulates a chrome web session
-2. If you'd like to emulate a desktop connection (and receive more message history), add this to your Socket config:
+2. If you' d like to emulate a desktop connection (and receive more message history), add this to your Socket config:
     ``` ts
     const conn = makeWASocket({
         ...otherOpts,
