@@ -4728,9 +4728,9 @@ levn@~0.3.0:
     type-check "~0.3.2"
 
 libphonenumber-js@^1.10.20:
-  version "1.10.28"
-  resolved "https://registry.yarnpkg.com/libphonenumber-js/-/libphonenumber-js-1.10.28.tgz#cae7e929cad96cee5ecc9449027192ecba39ee72"
-  integrity sha512-1eAgjLrZA0+2Wgw4hs+4Q/kEBycxQo8ZLYnmOvZ3AlM8ImAVAJgDPlZtISLEzD1vunc2q8s2Pn7XwB7I8U3Kzw==
+  version "1.10.45"
+  resolved "https://registry.yarnpkg.com/libphonenumber-js/-/libphonenumber-js-1.10.45.tgz#cbaebe6bfae746dbfb42730cd043fcb8c472ca00"
+  integrity sha512-eeHcvGafEYCaKB4fo2uBINfG7j7PcGwBHUaTVfbwl/6KcjCgIKNlIOsSXVRp9BH10NQwmvvk+nQ1e/Yp4BGB7w==
 
 "libsignal@https://github.com/adiwajshing/libsignal-node.git":
   version "2.0.1"
